@@ -39,10 +39,20 @@
 <br>
 
 <ul>
-  <li>Pensamiento creativo</li>
-  <li>Capacidad de trabajar en equipo.</li>
-  <li>Flexibilidad y adaptabilidad al cambio.</li>
+  <li>Creative thinking</li>
+  <li>Ability to work as a team.</li>
+  <li>Flexibility and adaptability to change.</li>
 </ul>
+
+<br>
+
+## Agile Methodologies 🧑‍💻:
+
+<br>
+
+<p>
+  Experience in development teams using the **agile Scrum methodology**.
+</p>
 
 <br>
 

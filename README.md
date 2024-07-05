@@ -50,9 +50,7 @@
 
 <br>
 
-<p>
   Experience in development teams using the **agile Scrum methodology**.
-</p>
 
 <br>
 

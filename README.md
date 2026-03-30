@@ -4,7 +4,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as **Frontend Developer** at Academia Wolframio
+- 🏢 I am currently working as **Developer** at **Academia Wolframio**
 - 🎓 I study Software Engineering at **National Technological University**.
 - 🎓 Full Stack Web Developer at Institute Egg Education.
 - 🎓 JavaScript Developer at Casa del Futuro, Godoy Cruz.
